@@ -12,5 +12,5 @@ def city_country(city, country, population=None, language=None):
 
 # Call the function three times
 print(city_country('San Diego', 'United States'))
-print(city_country('Amsterdam','Netherlands', 921402, 'Dutch'))
+print(city_country('Amsterdam', 'Netherlands', 921402, 'Dutch'))
 print(city_country('Rome', 'Italy', 2759629, 'Italian'))
